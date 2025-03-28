@@ -1,0 +1,1 @@
+Files generated following the LinkedIn Learning course at https://www.linkedin.com/learning/graphql-essential-training-20298359
